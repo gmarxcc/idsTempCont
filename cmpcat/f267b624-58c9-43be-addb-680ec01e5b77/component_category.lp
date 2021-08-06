@@ -1,0 +1,10 @@
+(librepcb_component_category f267b624-58c9-43be-addb-680ec01e5b77
+ (name "Multiplexer")
+ (description "Analog Multiplexer")
+ (keywords "")
+ (author "Gerardo Marx Chávez Campos")
+ (version "0.1")
+ (created 2021-08-05T23:06:28Z)
+ (deprecated false)
+ (parent 8226f987-124b-4776-9084-3821dd51c272)
+)

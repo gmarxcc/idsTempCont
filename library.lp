@@ -1,0 +1,10 @@
+(librepcb_library ba38c4dd-58bd-4b9d-bb02-731aa05f61fd
+ (name "idsTempCont")
+ (description "Temperature Controller")
+ (keywords "")
+ (author "Gerardo Marx Chávez Campos")
+ (version "0.1")
+ (created 2021-08-05T17:01:20Z)
+ (deprecated false)
+ (url "")
+)

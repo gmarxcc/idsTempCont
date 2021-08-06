@@ -1,0 +1,10 @@
+(librepcb_component_category d586ad0e-b9fd-44a2-ada2-c38255674ee2
+ (name "Buffer")
+ (description "")
+ (keywords "")
+ (author "Gerardo Marx Chávez Campos")
+ (version "0.1")
+ (created 2021-08-05T21:23:58Z)
+ (deprecated false)
+ (parent 8226f987-124b-4776-9084-3821dd51c272)
+)

@@ -1,0 +1,10 @@
+(librepcb_package_category 19717eda-b923-42dd-8c63-4da36e12ab5a
+ (name "SOT")
+ (description "SOT General Package; plastic small outline packag")
+ (keywords "")
+ (author "Gerardo Marx Chávez Campos")
+ (version "0.1")
+ (created 2021-08-05T21:46:15Z)
+ (deprecated false)
+ (parent 1dada485-860d-4157-8c35-4e1d2ce803b9)
+)
